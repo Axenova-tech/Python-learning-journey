@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Laptops",
+        "price": 950000,
+        "quantity": 15
+    },
+    {
+        "name": "Tablets",
+        "price": 650000,
+        "quantity": 10
+    },
+    {
+        "name": "Phones",
+        "price": 600000,
+        "quantity": 5
+    },
+    {
+        "name": "PS5",
+        "price": 1000000,
+        "quantity": 10
+    },
+    {
+        "name": "Monitor",
+        "price": 500000,
+        "quantity": 12
+    },
+    {
+        "name": "Radio",
+        "price": 50000,
+        "quantity": 18
+    },
+    {
+        "name": "Zealot MP",
+        "price": 300000,
+        "quantity": 10
+    }
+]
