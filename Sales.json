@@ -1,0 +1,35 @@
+[
+    {
+        "product name": "Laptops",
+        "quantity_s": 5,
+        "total_p": 4750000
+    },
+    {
+        "product name": "Phones",
+        "quantity_s": 3,
+        "total_p": 1800000
+    },
+    {
+        "product name": "PS5",
+        "quantity_s": 2,
+        "total_p": 2000000
+    },
+    {
+        "product name": "Monitor",
+        "quantity_s": 3,
+        "total_p": 1500000,
+        "date_time": "2026-10-28 08:15"
+    },
+    {
+        "product name": "PS5",
+        "quantity_s": 3,
+        "total_p": 3000000,
+        "date_time": "2026-10-28 12:02"
+    },
+    {
+        "product name": "Radio",
+        "quantity_s": 5,
+        "total_p": 250000,
+        "date_time": "2026-10-28 12:19"
+    }
+]
