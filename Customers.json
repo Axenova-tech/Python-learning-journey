@@ -1,0 +1,42 @@
+[
+    {
+        "cust_id": "CUST001",
+        "name": "chris",
+        "phone": "07044402757"
+    },
+    {
+        "cust_id": "CUST002",
+        "name": "Access",
+        "phone": "09131216720"
+    },
+    {
+        "cust_id": "CUST003",
+        "name": "Deborah",
+        "phone": "08068200156"
+    },
+    {
+        "cust_id": "CUST004",
+        "name": "Spencer.K",
+        "phone": "07066346890"
+    },
+    {
+        "cust_id": "CUST005",
+        "name": "Merlin",
+        "phone": "07046789201"
+    },
+    {
+        "cust_id": "CUST006",
+        "name": "Blessing",
+        "phone": "07045632789653"
+    },
+    {
+        "cust_id": "CUST007",
+        "name": "Rema",
+        "phone": "091466792012"
+    },
+    {
+        "cust_id": "CUST008",
+        "name": "Ugo",
+        "phone": "09167892365"
+    }
+]
