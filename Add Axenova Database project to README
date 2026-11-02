@@ -1,0 +1,39 @@
+# Python-learning-journey
+My python project and progress towards becoming a software engineer at Axenova Technologies.
+
+## 🎮 Game Store Project
+
+A Python game store featuring:
+
+- View available games
+- Buy games and manage a shopping cart
+- Search for games
+- Checkout
+- View purchase history
+- Save purchase history using Pickle
+
+Built with Python by Axenova Technologies.
+
+---
+
+## 🗄️ Axenova Database Management System
+
+A Python database management application developed by Axenova Technologies using SQLite.
+
+### Features
+- Add new products.
+- View stored products.
+- Update product prices and quantities.
+- Delete products.
+- Validate user input.
+- Prevent duplicate product names.
+- Store product records in an SQLite database.
+
+### Technologies Used
+- Python
+- SQLite
+- sqlite3 module
+
+### Database File
+`axenova.db`
+
